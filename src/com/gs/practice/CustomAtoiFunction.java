@@ -3,9 +3,14 @@ package com.gs.practice;
 public class CustomAtoiFunction {
     public static void main(String[] args) {
 
-        String s1 = "0123456";
-        int result = customAtoi(s1);
-        System.out.println(result);
+        String s1 = "-3456";
+//        int result = customAtoi(s1);
+//        try{
+//            System.out.println( Integer.parseInt(s1));
+//        }
+//        catch (NumberFormatException e){
+//            System.out.println("not a number");
+//        }
     }
 
     public static int customAtoi(String str) {
@@ -30,7 +35,8 @@ public class CustomAtoiFunction {
             index++;
         }
         return result * sign;
-        //Anjusha
+        // 133571
     }
 }
+
 

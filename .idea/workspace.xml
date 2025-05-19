@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67540d24-48cd-44d7-b6c0-b86431eaf582" name="Changes" comment="&quot;Initial codes&quot;">
+      <change beforePath="$PROJECT_DIR$/src/com/gs/practice/CustomAtoiFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gs/practice/CustomAtoiFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gs/practice/FindIPAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gs/practice/FindIPAddress.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2xA9Gt7V6AemS9illFOVGPIs3oo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConvertString.executor": "Run",
+    "Application.CustomAtoiFunction.executor": "Run",
+    "Application.DirectionTraversal.executor": "Debug",
+    "Application.DistanceBetweenTwoWords.executor": "Debug",
+    "Application.FindIPAddress.executor": "Debug",
+    "Application.FindMinimum.executor": "Run",
+    "Application.FirstNonRepeatingCharacter.executor": "Run",
+    "Application.InorderTraversal.executor": "Run",
+    "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.LongestWordWithSubstringSlidingWindowApproach.executor": "Debug",
+    "Application.MedianOfTwoSortedArrays.executor": "Debug",
+    "Application.MinimumInSortedRotatedArray.executor": "Run",
+    "Application.PalindromeCheckFromMiddle.executor": "Debug",
+    "Application.PowerOfTen.executor": "Run",
+    "Application.ReverseVowelsInString.executor": "Debug",
+    "Application.ShortestSubarrayWithSumK.executor": "Run",
+    "Application.SmallestMissingInteger.executor": "Run",
+    "Application.StartWithPrefix.executor": "Debug",
+    "Application.StudentAverage.executor": "Debug",
+    "Application.ValidParentesis.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/Anshuja.Jiwankar/IdeaProjects/gs/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ConvertString">
+    <configuration name="ConvertString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.ConvertString" />
+      <module name="gs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gs.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomAtoiFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.CustomAtoiFunction" />
+      <module name="gs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gs.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseVowelsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.ReverseVowelsInString" />
+      <module name="gs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gs.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortestSubarrayWithSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.ShortestSubarrayWithSumK" />
+      <module name="gs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gs.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestMissingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.SmallestMissingInteger" />
+      <module name="gs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gs.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConvertString" />
+        <item itemvalue="Application.CustomAtoiFunction" />
+        <item itemvalue="Application.ShortestSubarrayWithSumK" />
+        <item itemvalue="Application.SmallestMissingInteger" />
+        <item itemvalue="Application.ReverseVowelsInString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67540d24-48cd-44d7-b6c0-b86431eaf582" name="Changes" comment="" />
+      <created>1747369919820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747369919820</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Initial codes&quot;">
+      <option name="closed" value="true" />
+      <created>1747574697870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747574697870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6d328b5c-cffe-4f5f-bd63-98ddd0e4a0e9" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="6d328b5c-cffe-4f5f-bd63-98ddd0e4a0e9">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Initial codes&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial codes&quot;" />
+  </component>
+</project>
