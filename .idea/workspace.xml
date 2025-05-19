@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67540d24-48cd-44d7-b6c0-b86431eaf582" name="Changes" comment="&quot;Initial codes&quot;">
-      <change beforePath="$PROJECT_DIR$/src/com/gs/practice/CustomAtoiFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gs/practice/CustomAtoiFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gs/practice/FindIPAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gs/practice/FindIPAddress.java" afterDir="false" />
+    <list default="true" id="67540d24-48cd-44d7-b6c0-b86431eaf582" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
