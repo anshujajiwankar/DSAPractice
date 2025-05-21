@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67540d24-48cd-44d7-b6c0-b86431eaf582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/PascalTriangle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/PascalTriangle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/StairClimbing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gs/com/gs/practice/ConvertString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gs/com/gs/practice/ConvertString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gs/com/gs/practice/CustomAtoiFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gs/com/gs/practice/CustomAtoiFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gs/com/gs/practice/FindIPAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gs/com/gs/practice/FindIPAddress.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anshujajiwankar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anshujajiwankar/DSAPractice.git",
+    "accountId": "8cbb6323-bde3-4ffd-83f2-0465bfd884e4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -71,20 +77,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PascalTriangle3">
-    <configuration name="ConvertString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gs.practice.ConvertString" />
-      <module name="gs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gs.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StairClimbing">
     <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gs.practice.PascalTriangle" />
       <module name="gs" />
@@ -118,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StairClimbing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.StairClimbing" />
+      <module name="gs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gs.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gs.practice.TrappingRainWater" />
       <module name="gs" />
@@ -133,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StairClimbing" />
         <item itemvalue="Application.PascalTriangle3" />
         <item itemvalue="Application.PascalTriangle2" />
         <item itemvalue="Application.PascalTriangle" />
         <item itemvalue="Application.TrappingRainWater" />
-        <item itemvalue="Application.ConvertString" />
       </list>
     </recent_temporary>
   </component>
