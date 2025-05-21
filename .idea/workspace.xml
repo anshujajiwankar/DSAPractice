@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67540d24-48cd-44d7-b6c0-b86431eaf582" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/PascalTriangle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/PascalTriangle3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gs/practice/TrappingRainWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gs/com/gs/practice/ConvertString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gs/com/gs/practice/ConvertString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gs/com/gs/practice/CustomAtoiFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gs/com/gs/practice/CustomAtoiFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gs/com/gs/practice/FindIPAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gs/com/gs/practice/FindIPAddress.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,37 +37,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ConvertString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CustomAtoiFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DirectionTraversal.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DistanceBetweenTwoWords.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindIPAddress.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindMinimum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatingCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InorderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestPalindromicSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestWordWithSubstringSlidingWindowApproach.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MedianOfTwoSortedArrays.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MinimumInSortedRotatedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeCheckFromMiddle.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PowerOfTen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseVowelsInString.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ShortestSubarrayWithSumK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallestMissingInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StartWithPrefix.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.StudentAverage.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ValidParentesis.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Anshuja.Jiwankar/IdeaProjects/gs/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConvertString.executor": "Run",
+    "Application.CustomAtoiFunction.executor": "Run",
+    "Application.DirectionTraversal.executor": "Debug",
+    "Application.DistanceBetweenTwoWords.executor": "Debug",
+    "Application.FindIPAddress.executor": "Debug",
+    "Application.FindMinimum.executor": "Run",
+    "Application.FirstNonRepeatingCharacter.executor": "Run",
+    "Application.InorderTraversal.executor": "Run",
+    "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.LongestWordWithSubstringSlidingWindowApproach.executor": "Debug",
+    "Application.MedianOfTwoSortedArrays.executor": "Debug",
+    "Application.MinimumInSortedRotatedArray.executor": "Run",
+    "Application.PalindromeCheckFromMiddle.executor": "Debug",
+    "Application.PascalTriangle.executor": "Run",
+    "Application.PascalTriangle2.executor": "Run",
+    "Application.PascalTriangle3.executor": "Run",
+    "Application.PowerOfTen.executor": "Run",
+    "Application.ReverseVowelsInString.executor": "Debug",
+    "Application.ShortestSubarrayWithSumK.executor": "Run",
+    "Application.SmallestMissingInteger.executor": "Run",
+    "Application.StartWithPrefix.executor": "Debug",
+    "Application.StudentAverage.executor": "Debug",
+    "Application.TrappingRainWater.executor": "Run",
+    "Application.ValidParentesis.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/Anshuja.Jiwankar/IdeaProjects/gs/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.ConvertString">
+}]]></component>
+  <component name="RunManager" selected="Application.PascalTriangle3">
     <configuration name="ConvertString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gs.practice.ConvertString" />
       <module name="gs" />
@@ -74,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomAtoiFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gs.practice.CustomAtoiFunction" />
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.PascalTriangle" />
       <module name="gs" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowelsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gs.practice.ReverseVowelsInString" />
+    <configuration name="PascalTriangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.PascalTriangle2" />
       <module name="gs" />
       <extension name="coverage">
         <pattern>
@@ -100,21 +111,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestSubarrayWithSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gs.practice.ShortestSubarrayWithSumK" />
+    <configuration name="PascalTriangle3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PascalTriangle3" />
       <module name="gs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gs.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestMissingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gs.practice.SmallestMissingInteger" />
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gs.practice.TrappingRainWater" />
       <module name="gs" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PascalTriangle3" />
+        <item itemvalue="Application.PascalTriangle2" />
+        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.TrappingRainWater" />
         <item itemvalue="Application.ConvertString" />
-        <item itemvalue="Application.CustomAtoiFunction" />
-        <item itemvalue="Application.ShortestSubarrayWithSumK" />
-        <item itemvalue="Application.SmallestMissingInteger" />
-        <item itemvalue="Application.ReverseVowelsInString" />
       </list>
     </recent_temporary>
   </component>
